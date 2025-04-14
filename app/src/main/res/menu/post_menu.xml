@@ -1,0 +1,14 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/editPost"
+        android:title="Chỉnh sửa"
+        android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/deletePost"
+        android:title="Xóa"
+        android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+</menu>

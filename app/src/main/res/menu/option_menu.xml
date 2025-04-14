@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/like"
+        android:icon="@drawable/notification"
+        android:title="Thông báo"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/message"
+        android:icon="@drawable/comment"
+        android:title="message"
+        app:showAsAction="always"
+        />
+</menu>
